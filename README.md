@@ -148,12 +148,6 @@ welcome to my GitHub Page. I am Shashi Teja P V and now Software Developer, I le
 </a>
   <br/>
   <br/>
-  <br/>
-  <a href="https://github.com/shashitejapv1999/DSA_JAVA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashitejapv1999&repo=DSA_JAVA&theme=default" />
-</a>
-  <br/>
-  <br/>
  
 </details>
 
